@@ -1,6 +1,6 @@
 {
     "name": "tda/laravel-analytics-v4",
-    "description": "GA4 integration for laravel",
+    "description": "GA4 integration for laravel 8",
     "keywords": [
         "tda",
         "laravel",
@@ -16,7 +16,7 @@
         },
         {
             "name": "DL",
-            "email": "",
+            "email": "davileichs@gmail.com",
             "role": "Developer"
         }
     ],

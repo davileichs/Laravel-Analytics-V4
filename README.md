@@ -1,11 +1,8 @@
-# GA4 integration for laravel
+# GA4 integration for laravel 8
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/tda/laravel-analytics-v4.svg?style=flat-square)](https://packagist.org/packages/tda/laravel-analytics-v4)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/tda/laravel-analytics-v4/run-tests?label=tests)](https://github.com/tda/laravel-analytics-v4/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/tda/laravel-analytics-v4/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/tda/laravel-analytics-v4/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/tda/laravel-analytics-v4.svg?style=flat-square)](https://packagist.org/packages/tda/laravel-analytics-v4)
 
-This package offers integration to GA4 properties with some out of the box methods. Inspired by [Spatie integration](https://github.com/spatie/laravel-analytics) for GA3. Requires Laravel 9+.
+
+This package offers integration to GA4 properties with some out of the box methods. Inspired by [Spatie integration](https://github.com/spatie/laravel-analytics) for GA3 and originally forked from MyOutDeskLLC. Requires Laravel 8+.
 
 ## Installation
 
